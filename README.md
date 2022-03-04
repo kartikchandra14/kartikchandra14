@@ -1,4 +1,4 @@
-<h1 align="center">नमस्कार 🙏 , I'm kartik chandra | MEAN Stack SDE | NEST JS</h1>
+<h2 align="center">नमस्कार 🙏 , I'm kartik chandra | MEAN Stack SDE | NEST JS📖</h2>
 <h3 align="center"> || A passionate MEAN STACK SDE from India || वसुधैव कुटुम्बकम् ||</h3>
 
 - 🔭 I’m currently working on [BEAT UP](https://beatuptribe.com)
