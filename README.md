@@ -1,5 +1,5 @@
 <h2 align="center">नमस्कार 🙏 , I'm kartik chandra | MEAN Stack SDE | NEST JS📖</h2>
-<h3 align="center"> || A passionate MEAN STACK SDE from India || वसुधैव कुटुम्बकम् ||</h3>
+<h3 align="center"> || A passionate MEAN STACK SDE from BHARAT 🇮🇳 || वसुधैव कुटुम्बकम् ||</h3>
 
 - 🔭 I’m currently working on [BEAT UP](https://beatup.app)
 
