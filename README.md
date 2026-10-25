@@ -1,9 +1,9 @@
 <h2 align="center">नमस्कार 🙏 , I'm kartik chandra | MEAN Stack SDE | NEST JS📖</h2>
 <h3 align="center"> || A passionate MEAN STACK SDE from BHARAT 🇮🇳 || वसुधैव कुटुम्बकम् ||</h3>
 
-- 🔭 I’m currently working on [BEAT UP](https://beatup.app)
+- 🔭 I’m currently working on Agentic Apps with RAG pipeline
 
-- 🌱 I’m currently learning **NEST JS**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://kartikchandra14.github.io](https://kartikchandra14.github.io)
 
